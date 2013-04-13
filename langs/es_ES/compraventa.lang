@@ -1,0 +1,19 @@
+# SIEMPRE language file - es_ES - main
+CHARSET=UTF-8
+DIRECTION=ltr
+SeparatorDecimal=,
+SeparatorThousand=
+
+comprasventas=Compras Ventas
+compras=Compras
+ventas=Ventas
+reportes=Reportes
+licitacion=Licitación
+intervenciones=Intervenciones
+impuestos=Impuestos
+presupuesto=Presupuesto
+archivoTXT=Archivo TXT
+archivoXML=Archivo XML
+resultEjer=Resultado ejercicio
+VolumenVentas=Volumen ventas
+VolumenCompras=Volumen compras

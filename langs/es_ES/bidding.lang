@@ -1,0 +1,20 @@
+# SIEMPRE language file - es_ES - propal 
+CHARSET=UTF-8
+Bidding=Licitación
+BiddingArea= Area de licitación
+Valorization=Valorización
+DictionnaryBiddingValorization=Configure la valorización y porcentajes de las licitaciones
+LastModifiedBidding=Ultimas licitaciónes modificadas
+LastCreatedBidding=Ultimas licitaciónes creadas
+NewBidding=Nueva licitación
+ConfirmDeleteBiddin=¿Desea eliminar esta licitación?
+## Label Status
+BiddingStatusDraft=Borrador (a validar)
+BiddingStatusOpened=Abierto
+BiddingStatusValidated=Validado (licitación abierta)
+BiddingStatusDraftShort=Borrador
+BiddingStatusOpenedShort=Abierto
+
+## Tabs
+BiddingResume=Resumen
+BiddingProv=Proveedores

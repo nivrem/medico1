@@ -1,0 +1,12 @@
+# SIEMPRE language file - es_ES - Actualización Venezuela
+CHARSET=UTF-8
+
+#Lenguaje de configuracion
+AVZLConf=Actualización Venezuela
+ConfiguracionModVZLA=Configuración del modulo de actualización Venezuela
+ConfiguracionRIVA=Módulo de numeración de planilla de retención de I.V.A.
+ConfiguracionRISLR=Módulo de numeración de planilla de retención de I.S.L.R.
+DescripcionNumeracionRetencionIVA=Numeración de plantilla de retención de I.V.A.
+MascaraDeRetencionesIVA=<b>{yyyy}{mm}{00000000+00} <br/>El numero con una compensacion que esta a la derecha del signo + se aplica apartir del primero.<b>
+MascaraDeRetencionesISLR=<b>{00000000+00} <br/>El numero con una compensacion que esta a la derecha del signo + se aplica apartir del primero.<b>
+

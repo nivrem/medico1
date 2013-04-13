@@ -1,0 +1,53 @@
+#Copyright (C) 2012 MEGA BYTE TECNOLOGY, C.A. J-31726844-0 <info@siempresistemas.com>
+# SIEMPRE language file - es_ES - CRM
+CHARSET=UTF-8
+
+TituloCRM=CRM
+ContactosN=Contacto Nº %s
+RespuestaN=Respuesta Nº %s
+ContactoHecho=Contacto hecho el %s
+RespuestaHecho=Respuesta hecho el %s
+UserCorto=User.
+StatusContacto=Estado del contacto
+Status0=Abierto
+Status6=Cerrado
+Contacto=Contacto
+AgregarContacto=Agregar contacto CRM
+ReplicarContacto=Responder solicitud
+AgendarContacto=Agendar contacto
+CrearIntervencion=Registrar intervencion
+CerrarTitulo=Cerrar contacto
+ConfirmarCerrarTitulo=¿Desea cerrar este contacto?, <b>esta operacion no puede deshacerse</b>
+PersonaContacto=Persona que contacta
+TipoEventoAgendado=Tipo evento agendado
+FuenteContacto=Fuente del contacto 
+PersonasAgendadas=Persona agendadas 
+CerrarSolicitud=Cerrar solicitud
+GenerarIntervencion=Generar intervencion
+NuevaSolicitud=Agregar contacto CRM
+ReplicarSolicitud=Responder
+ToolTipAgregar=Agregar nuevo contacto a este empresa.
+FechaContacto=Fecha de contacto
+Agendar=Tipo de evento a registrar
+FechaAgendar=Fecha del evento : 
+PersonasAgendar=Personas a agendar
+PersonasAgendadas=Personas que agendaron
+DescripcionContacto=Descripcion
+AnadirContacto=Validar
+AgendarOtrosUsuario=Agendar a otros
+AgregarArchivos=Documentos
+
+#   Box
+BoxLastCrm=Ultimos registros
+BoxTitleLastCrmToDo=Ultimos registros
+
+#Board
+ContactosRealizadosAbiertos=Contactos realizados en el CRM
+
+#Liste
+ListaCRM=Lista de los contactos del CRM
+Nombre=Nombre
+
+#Events
+CrmContactoCreado=Contacto del CRM " %s " creado de la empresa " %s "
+CrmContactoCerrado=Contacto del CRM " %s " cerrado de la empresa " %s "
